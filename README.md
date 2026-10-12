@@ -1,6 +1,6 @@
-# 🎵 Klasifikasi Genre Musik Spotify Menggunakan KNN
+#  Klasifikasi Genre Musik Spotify Menggunakan KNN
 
-## 📌 Deskripsi Project
+##  Deskripsi Project
 
 Project ini merupakan tugas kuliah Machine Learning yang bertujuan untuk mengklasifikasikan genre musik Spotify menggunakan algoritma **K-Nearest Neighbors (KNN)** dengan bahasa pemrograman Python.
 
@@ -8,7 +8,7 @@ Program menggunakan dataset Spotify dalam format CSV. Klasifikasi dilakukan berd
 
 Melalui project ini, model Machine Learning dilatih untuk memprediksi genre lagu berdasarkan kemiripan karakteristik audio dengan data lagu lainnya.
 
-## 🎯 Tujuan Project
+##  Tujuan Project
 
 1. Memahami penerapan algoritma KNN dalam klasifikasi musik.
 2. Mempelajari cara membaca dan mengolah dataset CSV menggunakan Pandas.
@@ -47,7 +47,7 @@ Dataset memuat informasi karakteristik audio lagu dan genre musik yang menjadi t
 
 **Target klasifikasi:** `track_genre`, yaitu genre musik yang akan diprediksi oleh model.
 
-## 🧠 Algoritma yang Digunakan
+##  Algoritma yang Digunakan
 
 ### K-Nearest Neighbors (KNN)
 
@@ -71,7 +71,7 @@ Dataset dibagi menjadi:
 
 Pembagian dilakukan menggunakan `random_state=42` dan `stratify=y` agar proporsi kelas genre tetap terjaga dalam pembagian data.
 
-## ⚙️ Tahapan Program
+##  Tahapan Program
 
 1. **Import library** — memanggil library yang dibutuhkan.
 2. **Data loading** — membaca dataset `spotify.csv`.
@@ -83,7 +83,7 @@ Pembagian dilakukan menggunakan `random_state=42` dan `stratify=y` agar proporsi
 8. **Modeling** — melatih model KNN dengan nilai K maksimal 5.
 9. **Evaluasi** — mengukur akurasi, menampilkan confusion matrix, serta melihat precision, recall, dan F1-score.
 
-## 📈 Evaluasi Model
+##  Evaluasi Model
 
 Performa model dievaluasi menggunakan beberapa metrik:
 
@@ -95,7 +95,7 @@ Performa model dievaluasi menggunakan beberapa metrik:
 
 Nilai evaluasi yang sebenarnya diperoleh setelah notebook dijalankan menggunakan dataset.
 
-## 📁 Struktur Project
+##  Struktur Project
 
 ```text
 SPOTIFY-KNN/
@@ -111,7 +111,7 @@ Keterangan:
 - `README.md`: Dokumentasi project.
 - `requirements.txt`: Daftar library yang diperlukan untuk menjalankan project.
 
-## ▶️ Cara Menjalankan Project
+##  Cara Menjalankan Project
 
 ### 1. Install Python dan Jupyter Notebook
 
@@ -145,11 +145,11 @@ Notebook juga dapat dijalankan melalui Visual Studio Code dengan ekstensi Jupyte
 
 Jalankan setiap cell secara berurutan dari atas ke bawah untuk melakukan data cleaning, data splitting, pelatihan model KNN, dan evaluasi.
 
-## 👨‍💻 Author
+##  Author
 
 **Nama:** Zidan Alfiros  
 **Program Studi:** Teknik Informatika  
-**Keperluan:** Tugas Kuliah Machine Learning
+**Keperluan:** Tugas Laporam Lab Machine Learning
 
 ---
 
