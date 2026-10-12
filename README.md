@@ -102,7 +102,6 @@ SPOTIFY-KNN/
 ├── SPOTIFYDATANEW.ipynb
 ├── spotify.csv
 ├── README.md
-└── requirements.txt
 ```
 
 Keterangan:
