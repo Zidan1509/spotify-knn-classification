@@ -17,7 +17,7 @@ Melalui project ini, model Machine Learning dilatih untuk memprediksi genre lagu
 5. Menerapkan standardisasi fitur menggunakan StandardScaler.
 6. Mengevaluasi performa model menggunakan metrik klasifikasi.
 
-## 🛠️ Teknologi dan Library
+##  Teknologi dan Library
 
 Project ini menggunakan Python dan beberapa library berikut:
 
@@ -25,7 +25,7 @@ Project ini menggunakan Python dan beberapa library berikut:
 - **NumPy**: Mendukung operasi numerik, termasuk pembuatan label untuk confusion matrix.
 - **Scikit-learn**: Digunakan untuk data splitting, encoding label, standardisasi fitur, algoritma KNN, dan evaluasi model.
 
-## 📊 Dataset
+##  Dataset
 
 Dataset yang digunakan adalah dataset Spotify dalam format CSV dengan nama file `spotify.csv`.
 
