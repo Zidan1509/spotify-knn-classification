@@ -149,7 +149,7 @@ Jalankan setiap cell secara berurutan dari atas ke bawah untuk melakukan data cl
 
 **Nama:** Zidan Alfiros  
 **Program Studi:** Teknik Informatika  
-**Keperluan:** Tugas Laporam Lab Machine Learning
+**Keperluan:** Tugas Laporan Lab Machine Learning
 
 ---
 
